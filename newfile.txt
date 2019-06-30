@@ -1,2 +1,0 @@
-
-	emaile = serratmirkishev@gmail.com
