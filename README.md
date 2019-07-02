@@ -7,3 +7,6 @@ This repository is for showing how Git and GitHub work
 aksjkaskasask
 ## Copyright  
 Sample website with plenty of files for demos
+
+
+Adding some more text in READ me file
