@@ -8,7 +8,7 @@ NAme JOhn Chen
 # THANKS
  Thanks to all my students 
     <name>
-
+#adding some extra info
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
