@@ -13,3 +13,5 @@ NAme JOhn Chen
 
     HTML5, CSS3
     jQuery, Modernizr
+
+More Values`
